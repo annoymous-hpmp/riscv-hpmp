@@ -1,0 +1,255 @@
+fatal: No names found, cannot describe anything.
+Submodule 'fpga/fpga-shells' (https://github.com/sifive/fpga-shells.git) registered for path 'fpga/fpga-shells'
+Submodule 'generators/boom' (https://github.com/riscv-boom/riscv-boom.git) registered for path 'generators/boom'
+Submodule 'generators/cva6' (https://github.com/ucb-bar/cva6-wrapper.git) registered for path 'generators/cva6'
+Submodule 'generators/fft-generator' (https://github.com/ucb-bar/FFTGenerator.git) registered for path 'generators/fft-generator'
+Submodule 'generators/gemmini' (https://github.com/ucb-bar/gemmini) registered for path 'generators/gemmini'
+Submodule 'generators/hwacha' (https://github.com/ucb-bar/hwacha.git) registered for path 'generators/hwacha'
+Submodule 'generators/ibex' (https://github.com/ucb-bar/ibex-wrapper) registered for path 'generators/ibex'
+Submodule 'generators/icenet' (https://github.com/firesim/icenet.git) registered for path 'generators/icenet'
+Submodule 'generators/nvdla' (https://github.com/ucb-bar/nvdla-wrapper.git) registered for path 'generators/nvdla'
+Submodule 'generators/riscv-sodor' (https://github.com/ucb-bar/riscv-sodor.git) registered for path 'generators/riscv-sodor'
+Submodule 'generators/rocket-chip' (git@github.com:Ddnirvana/rocket-chip.git) registered for path 'generators/rocket-chip'
+Submodule 'generators/sha3' (https://github.com/ucb-bar/sha3.git) registered for path 'generators/sha3'
+Submodule 'generators/sifive-blocks' (https://github.com/sifive/sifive-blocks.git) registered for path 'generators/sifive-blocks'
+Submodule 'generators/block-inclusivecache-sifive' (https://github.com/sifive/block-inclusivecache-sifive.git) registered for path 'generators/sifive-cache'
+Submodule 'testchipip' (https://github.com/ucb-bar/testchipip.git) registered for path 'generators/testchipip'
+Submodule 'sims/firesim' (https://github.com/firesim/firesim.git) registered for path 'sims/firesim'
+Submodule 'software/coremark' (https://github.com/ucb-bar/coremark-workload.git) registered for path 'software/coremark'
+Submodule 'software/firemarshal' (https://github.com/firesim/FireMarshal.git) registered for path 'software/firemarshal'
+Submodule 'software/nvdla-workload' (https://github.com/ucb-bar/nvdla-workload.git) registered for path 'software/nvdla-workload'
+Submodule 'software/spec2017' (https://github.com/ucb-bar/spec2017-workload.git) registered for path 'software/spec2017'
+Submodule 'toolchains/esp-tools/riscv-gnu-toolchain' (https://github.com/ucb-bar/esp-gnu-toolchain.git) registered for path 'toolchains/esp-tools/riscv-gnu-toolchain'
+Submodule 'toolchains/esp-tools/riscv-isa-sim' (https://github.com/ucb-bar/esp-isa-sim.git) registered for path 'toolchains/esp-tools/riscv-isa-sim'
+Submodule 'toolchains/esp-tools/riscv-pk' (https://github.com/riscv/riscv-pk.git) registered for path 'toolchains/esp-tools/riscv-pk'
+Submodule 'toolchains/esp-tools/riscv-tests' (https://github.com/ucb-bar/esp-tests.git) registered for path 'toolchains/esp-tools/riscv-tests'
+Submodule 'toolchains/libgloss' (https://github.com/ucb-bar/libgloss-htif.git) registered for path 'toolchains/libgloss'
+Submodule 'toolchains/qemu' (https://github.com/qemu/qemu.git) registered for path 'toolchains/qemu'
+Submodule 'toolchains/riscv-tools/riscv-gnu-toolchain' (https://github.com/riscv/riscv-gnu-toolchain.git) registered for path 'toolchains/riscv-tools/riscv-gnu-toolchain'
+Submodule 'toolchains/riscv-tools/riscv-gnu-toolchain-prebuilt' (https://github.com/ucb-bar/chipyard-toolchain-prebuilt.git) registered for path 'toolchains/riscv-tools/riscv-gnu-toolchain-prebuilt'
+Submodule 'toolchains/riscv-tools/riscv-isa-sim' (https://github.com/riscv/riscv-isa-sim.git) registered for path 'toolchains/riscv-tools/riscv-isa-sim'
+Submodule 'toolchains/riscv-tools/riscv-openocd' (https://github.com/riscv/riscv-openocd.git) registered for path 'toolchains/riscv-tools/riscv-openocd'
+Submodule 'toolchains/riscv-tools/riscv-pk' (https://github.com/riscv/riscv-pk.git) registered for path 'toolchains/riscv-tools/riscv-pk'
+Submodule 'toolchains/riscv-tools/riscv-tests' (https://github.com/riscv/riscv-tests.git) registered for path 'toolchains/riscv-tools/riscv-tests'
+Submodule 'tools/DRAMSim2' (https://github.com/firesim/DRAMSim2.git) registered for path 'tools/DRAMSim2'
+Submodule 'tools/api-config-chipsalliance' (https://github.com/chipsalliance/api-config-chipsalliance.git) registered for path 'tools/api-config-chipsalliance'
+Submodule 'tools/axe' (https://github.com/CTSRD-CHERI/axe.git) registered for path 'tools/axe'
+Submodule 'barstools' (https://github.com/ucb-bar/barstools.git) registered for path 'tools/barstools'
+Submodule 'tools/chisel-testers' (https://github.com/freechipsproject/chisel-testers.git) registered for path 'tools/chisel-testers'
+Submodule 'tools/dromajo/dromajo-src' (https://github.com/riscv-boom/dromajo.git) registered for path 'tools/dromajo/dromajo-src'
+Submodule 'tools/dsptools' (https://github.com/ucb-bar/dsptools.git) registered for path 'tools/dsptools'
+Submodule 'tools/rocket-dsp-utils' (https://github.com/ucb-bar/rocket-dsp-utils) registered for path 'tools/rocket-dsp-utils'
+Submodule 'tools/torture' (https://github.com/ucb-bar/riscv-torture.git) registered for path 'tools/torture'
+Submodule 'vlsi/hammer' (https://github.com/ucb-bar/hammer.git) registered for path 'vlsi/hammer'
+Submodule 'vlsi/hammer-cadence-plugins' (https://github.com/ucb-bar/hammer-cadence-plugins.git) registered for path 'vlsi/hammer-cadence-plugins'
+Submodule 'vlsi/hammer-mentor-plugins' (https://github.com/ucb-bar/hammer-mentor-plugins.git) registered for path 'vlsi/hammer-mentor-plugins'
+Submodule 'vlsi/hammer-synopsys-plugins' (https://github.com/ucb-bar/hammer-synopsys-plugins.git) registered for path 'vlsi/hammer-synopsys-plugins'
+Skipping submodule 'fpga/fpga-shells'
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/boom'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/fft-generator'...
+Skipping submodule 'generators/gemmini'
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/hwacha'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/ibex'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/icenet'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/nvdla'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/riscv-sodor'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/rocket-chip'...
+Skipping submodule 'generators/sha3'
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/sifive-blocks'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/sifive-cache'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/testchipip'...
+Skipping submodule 'sims/firesim'
+Skipping submodule 'software/coremark'
+Skipping submodule 'software/firemarshal'
+Skipping submodule 'software/nvdla-workload'
+Skipping submodule 'software/spec2017'
+Skipping submodule 'toolchains/esp-tools/riscv-gnu-toolchain'
+Skipping submodule 'toolchains/esp-tools/riscv-isa-sim'
+Skipping submodule 'toolchains/esp-tools/riscv-pk'
+Skipping submodule 'toolchains/esp-tools/riscv-tests'
+Skipping submodule 'toolchains/libgloss'
+Skipping submodule 'toolchains/qemu'
+Skipping submodule 'toolchains/riscv-tools/riscv-gnu-toolchain'
+Skipping submodule 'toolchains/riscv-tools/riscv-gnu-toolchain-prebuilt'
+Skipping submodule 'toolchains/riscv-tools/riscv-isa-sim'
+Skipping submodule 'toolchains/riscv-tools/riscv-openocd'
+Skipping submodule 'toolchains/riscv-tools/riscv-pk'
+Skipping submodule 'toolchains/riscv-tools/riscv-tests'
+Cloning into '/home/centos/firesim/target-design/chipyard/tools/DRAMSim2'...
+Cloning into '/home/centos/firesim/target-design/chipyard/tools/api-config-chipsalliance'...
+Cloning into '/home/centos/firesim/target-design/chipyard/tools/axe'...
+Cloning into '/home/centos/firesim/target-design/chipyard/tools/barstools'...
+Cloning into '/home/centos/firesim/target-design/chipyard/tools/chisel-testers'...
+Cloning into '/home/centos/firesim/target-design/chipyard/tools/dromajo/dromajo-src'...
+Cloning into '/home/centos/firesim/target-design/chipyard/tools/dsptools'...
+Cloning into '/home/centos/firesim/target-design/chipyard/tools/rocket-dsp-utils'...
+Cloning into '/home/centos/firesim/target-design/chipyard/tools/torture'...
+Cloning into '/home/centos/firesim/target-design/chipyard/vlsi/hammer'...
+Skipping submodule 'vlsi/hammer-cadence-plugins'
+Skipping submodule 'vlsi/hammer-mentor-plugins'
+Skipping submodule 'vlsi/hammer-synopsys-plugins'
+Submodule path 'generators/boom': checked out 'ad64c5419151e5e886daee7084d8399713b46b4b'
+Submodule path 'generators/cva6': checked out '705c48a1dacc011cef9b4d021a88b4948e7f9b64'
+Submodule 'src/main/resources/vsrc/cva6' (https://github.com/openhwgroup/cva6.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6'
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6'...
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6': checked out '6000e32b4181304901adc4c8d72870ebc94473a5'
+Submodule 'fpga/src/apb_node' (https://github.com/pulp-platform/apb_node.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/fpga/src/apb_node'
+Submodule 'fpga/src/apb_timer' (https://github.com/pulp-platform/apb_timer.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/fpga/src/apb_timer'
+Submodule 'fpga/src/apb_uart' (https://github.com/pulp-platform/apb_uart.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/fpga/src/apb_uart'
+Submodule 'fpga/src/ariane-ethernet' (https://github.com/lowRISC/ariane-ethernet.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/fpga/src/ariane-ethernet'
+Submodule 'fpga/src/axi2apb' (https://github.com/pulp-platform/axi2apb.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/fpga/src/axi2apb'
+Submodule 'fpga/src/axi_slice' (https://github.com/pulp-platform/axi_slice.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/fpga/src/axi_slice'
+Submodule 'src/axi' (https://github.com/pulp-platform/axi.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/src/axi'
+Submodule 'src/axi_mem_if' (https://github.com/pulp-platform/axi_mem_if.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/src/axi_mem_if'
+Submodule 'src/axi_node' (https://github.com/pulp-platform/axi_node.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/src/axi_node'
+Submodule 'src/axi_riscv_atomics' (https://github.com/pulp-platform/axi_riscv_atomics.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/src/axi_riscv_atomics'
+Submodule 'src/common_cells' (https://github.com/pulp-platform/common_cells.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/src/common_cells'
+Submodule 'src/fpga-support' (https://github.com/pulp-platform/fpga-support.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/src/fpga-support'
+Submodule 'src/fpu' (https://github.com/pulp-platform/fpnew.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/src/fpu'
+Submodule 'src/register_interface' (https://github.com/pulp-platform/register_interface.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/src/register_interface'
+Submodule 'src/riscv-dbg' (https://github.com/pulp-platform/riscv-dbg.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/src/riscv-dbg'
+Submodule 'src/rv_plic' (https://github.com/pulp-platform/rv_plic.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/src/rv_plic'
+Submodule 'src/tech_cells_generic' (https://github.com/pulp-platform/tech_cells_generic.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/src/tech_cells_generic'
+Submodule 'tb/common_verification' (https://github.com/pulp-platform/common_verification.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/tb/common_verification'
+Submodule 'tb/dromajo' (https://github.com/kabylkas/dromajo.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/tb/dromajo'
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/fpga/src/apb_node'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/fpga/src/apb_timer'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/fpga/src/apb_uart'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/fpga/src/ariane-ethernet'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/fpga/src/axi2apb'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/fpga/src/axi_slice'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/src/axi'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/src/axi_mem_if'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/src/axi_node'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/src/axi_riscv_atomics'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/src/common_cells'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/src/fpga-support'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/src/fpu'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/src/register_interface'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/src/riscv-dbg'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/src/rv_plic'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/src/tech_cells_generic'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/tb/common_verification'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/tb/dromajo'...
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/fpga/src/apb_node': checked out '157e5f00a37440d53f2e5b3aabfc9d454530e688'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/fpga/src/apb_timer': checked out '6c84f69d2e92bd766f609b5dd47ece723359bd24'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/fpga/src/apb_uart': checked out 'ac3461ce23832e02903b9d2d7d4edd7fcb89bd92'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/fpga/src/ariane-ethernet': checked out '6a5436bf110f83ebb13119dbd82650ccd8f947c9'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/fpga/src/axi2apb': checked out '53e7b9f1b16e3f4d4aadc8fbf880d05879f54fe8'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/fpga/src/axi_slice': checked out 'aae8ca49dcfbfa8e44e1938a2e4a768db83006cb'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/src/axi': checked out '3f5d5b540a6403c5c611e507a14e99d9e7f22edf'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/src/axi_mem_if': checked out '4650ca9006d3ed7dddb3078af150467087823c19'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/src/axi_node': checked out 'a29a69a543e96d0c9f79ea9c7df20580b3da5002'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/src/axi_riscv_atomics': checked out '550881f12e22dfae405612fc1df6368f4c003e68'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/src/common_cells': checked out 'b2a4b2d3decdfc152ad9b4564a48ed3b2649fd6c'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/src/fpga-support': checked out 'a3ba269c0fc6cfcee6f81e5d9af018a08e479d2b'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/src/fpu': checked out '79f75e0a0fdab6ebc3840a14077c39f4934321fe'
+Submodule 'src-sv/common_cells' (https://github.com/pulp-platform/common_cells.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/src/fpu/src/common_cells'
+Submodule 'src-sv/fpu_div_sqrt_mvp' (https://github.com/pulp-platform/fpu_div_sqrt_mvp.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/src/fpu/src/fpu_div_sqrt_mvp'
+Submodule 'tb/flexfloat' (https://github.com/oprecomp/flexfloat.git) registered for path 'generators/cva6/src/main/resources/vsrc/cva6/src/fpu/tb/flexfloat'
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/src/fpu/src/common_cells'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/src/fpu/src/fpu_div_sqrt_mvp'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/cva6/src/main/resources/vsrc/cva6/src/fpu/tb/flexfloat'...
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/src/fpu/src/common_cells': checked out '790f2385c01c83022474eede55809666209216e3'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/src/fpu/src/fpu_div_sqrt_mvp': checked out '83a601f97934ed5e06d737b9c80d98b08867c5fa'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/src/fpu/tb/flexfloat': checked out '28be2d4fbf41b38fc37763bb6e90a1c88f6aaa61'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/src/register_interface': checked out 'd8aeccc65fdbbb30ef9dd28e065c2947a2396eab'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/src/riscv-dbg': checked out '6d768ac6371356b6e382c01ae7d860dd3e45248b'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/src/rv_plic': checked out 'ebe3e9888920f1f757b75bab81dc80f804896f57'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/src/tech_cells_generic': checked out 'ffe7818dc24eba29cf3634d404d1b3b85034272b'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/tb/common_verification': checked out 'a1e569119cdf2d25cecceee4016acd98030f6886'
+Submodule path 'generators/cva6/src/main/resources/vsrc/cva6/tb/dromajo': checked out '8acade8725d5e6cbf373304b348a8d77e0a5c713'
+Submodule path 'generators/fft-generator': checked out '4c335ff6aba3734fcc373548ea39f4c798f70cea'
+Submodule path 'generators/hwacha': checked out '7cc6354351457c6b5bf186cdd34297ee5caeb22a'
+Submodule path 'generators/ibex': checked out '0eac465e3e9e06eceba111b4b43d5178ede817c2'
+Submodule 'src/main/resources/vsrc/ibex' (https://github.com/lowRISC/ibex.git) registered for path 'generators/ibex/src/main/resources/vsrc/ibex'
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/ibex/src/main/resources/vsrc/ibex'...
+Submodule path 'generators/ibex/src/main/resources/vsrc/ibex': checked out '48f11c673348908c37d3eaa9bd1cd0a5b5c69253'
+Submodule path 'generators/icenet': checked out 'e14c1e8c54851d3fa7bc55fbbc6fc48873a3b2a9'
+Submodule path 'generators/nvdla': checked out '2b17011b266025704b958efeeca2363c0cdd446d'
+Submodule 'src/main/resources/hw' (https://github.com/nvdla/hw.git) registered for path 'generators/nvdla/src/main/resources/hw'
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/nvdla/src/main/resources/hw'...
+Submodule path 'generators/nvdla/src/main/resources/hw': checked out '8e06b1b9d85aab65b40d43d08eec5ea4681ff715'
+From https://github.com/ucb-bar/riscv-sodor
+ * branch            5643a8e245d562647f626295ad2dab9b4d5f6a13 -> FETCH_HEAD
+Submodule path 'generators/riscv-sodor': checked out '5643a8e245d562647f626295ad2dab9b4d5f6a13'
+Submodule path 'generators/rocket-chip': checked out '114325b27cfe5312c86a8a325b187be9455a62af'
+Submodule 'api-config-chipsalliance' (https://github.com/chipsalliance/api-config-chipsalliance.git) registered for path 'generators/rocket-chip/api-config-chipsalliance'
+Submodule 'hardfloat' (https://github.com/ucb-bar/berkeley-hardfloat.git) registered for path 'generators/rocket-chip/hardfloat'
+Submodule 'torture' (https://github.com/ucb-bar/riscv-torture.git) registered for path 'generators/rocket-chip/torture'
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/rocket-chip/api-config-chipsalliance'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/rocket-chip/hardfloat'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/rocket-chip/torture'...
+Submodule path 'generators/rocket-chip/api-config-chipsalliance': checked out 'fd8df1105a92065425cd353b6855777e35bd79b4'
+Submodule path 'generators/rocket-chip/hardfloat': checked out '70455e53f233a06cb5a342d125e22b7b1505c271'
+Submodule 'berkeley-softfloat-3' (https://github.com/ucb-bar/berkeley-softfloat-3.git) registered for path 'generators/rocket-chip/hardfloat/berkeley-softfloat-3'
+Submodule 'berkeley-testfloat-3' (https://github.com/ucb-bar/berkeley-testfloat-3.git) registered for path 'generators/rocket-chip/hardfloat/berkeley-testfloat-3'
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/rocket-chip/hardfloat/berkeley-softfloat-3'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/rocket-chip/hardfloat/berkeley-testfloat-3'...
+Submodule path 'generators/rocket-chip/hardfloat/berkeley-softfloat-3': checked out 'b64af41c3276f97f0e181920400ee056b9c88037'
+Submodule path 'generators/rocket-chip/hardfloat/berkeley-testfloat-3': checked out '06b20075dd3c1a5d0dd007a93643282832221612'
+Submodule path 'generators/rocket-chip/torture': checked out '99d8b2b441ecaa18b852505bb7718ee04e2753f5'
+Submodule 'env' (https://github.com/riscv/riscv-test-env.git) registered for path 'generators/rocket-chip/torture/env'
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/rocket-chip/torture/env'...
+Submodule path 'generators/rocket-chip/torture/env': checked out 'ce70afbf50a203be04bc326326cfa75831fe7f5d'
+Submodule path 'generators/sifive-blocks': checked out '545a396f3486132b01ceef3cbce2085608984478'
+From https://github.com/sifive/block-inclusivecache-sifive
+ * branch            e3a3000cc1fd4cdf3a4e638e4d081b8aae94ebf0 -> FETCH_HEAD
+Submodule path 'generators/sifive-cache': checked out 'e3a3000cc1fd4cdf3a4e638e4d081b8aae94ebf0'
+Submodule path 'generators/testchipip': checked out '52027a049f7810013e5940a1c115ff83127c1a96'
+Submodule path 'tools/DRAMSim2': checked out '2ec7965b2ee051aaff03d5db21c6709aea4dd24e'
+From https://github.com/chipsalliance/api-config-chipsalliance
+ * branch            fd8df1105a92065425cd353b6855777e35bd79b4 -> FETCH_HEAD
+Submodule path 'tools/api-config-chipsalliance': checked out 'fd8df1105a92065425cd353b6855777e35bd79b4'
+Submodule path 'tools/axe': checked out '4a7cf86960425fbf0b6224865b745ff511dc5742'
+Submodule path 'tools/barstools': checked out '064c8be7bb3d86eccfd603c614f74de6de1c3f4a'
+From https://github.com/freechipsproject/chisel-testers
+ * branch            ce4e027e5f3d871df59236b8471ea3e5be40130e -> FETCH_HEAD
+Submodule path 'tools/chisel-testers': checked out 'ce4e027e5f3d871df59236b8471ea3e5be40130e'
+Submodule path 'tools/dromajo/dromajo-src': checked out '09fbef4565429f641a7eb93f190ad0e45e11d7f8'
+Submodule path 'tools/dsptools': checked out 'a1809fbae9e49de7213116bbec79252645292e39'
+Submodule path 'tools/rocket-dsp-utils': checked out '0ffb46ad12d0335a1d44bc283bae596abfd79606'
+Submodule path 'tools/torture': checked out 'b2b66a66d51b360e0ae95017774d03377c78c574'
+Submodule 'env' (https://github.com/riscv/riscv-test-env.git) registered for path 'tools/torture/env'
+Cloning into '/home/centos/firesim/target-design/chipyard/tools/torture/env'...
+Submodule path 'tools/torture/env': checked out '1b76fd1f1c63dfe4cea93f426434a7384d2bf801'
+Submodule path 'vlsi/hammer': checked out '52c9b0191fbc32dc40c62f3b75374b1f46f39f0f'
+Submodule 'src/jsonschema' (https://github.com/edwardcwang/jsonschema.git) registered for path 'vlsi/hammer/src/jsonschema'
+Submodule 'src/python-jsonschema-objects' (https://github.com/edwardcwang/python-jsonschema-objects.git) registered for path 'vlsi/hammer/src/python-jsonschema-objects'
+Submodule 'src/tools/gdspy' (https://github.com/heitzmann/gdspy.git) registered for path 'vlsi/hammer/src/tools/gdspy'
+Submodule 'src/tools/pyyaml' (https://github.com/edwardcwang/pyyaml_plsi.git) registered for path 'vlsi/hammer/src/tools/pyyaml'
+Cloning into '/home/centos/firesim/target-design/chipyard/vlsi/hammer/src/jsonschema'...
+Cloning into '/home/centos/firesim/target-design/chipyard/vlsi/hammer/src/python-jsonschema-objects'...
+Cloning into '/home/centos/firesim/target-design/chipyard/vlsi/hammer/src/tools/gdspy'...
+Cloning into '/home/centos/firesim/target-design/chipyard/vlsi/hammer/src/tools/pyyaml'...
+Submodule path 'vlsi/hammer/src/jsonschema': checked out '8b945b5263cfe9c8f14afff7438adc960b4b48d0'
+Submodule path 'vlsi/hammer/src/python-jsonschema-objects': checked out 'f7b828956867642a3569b74fa515eb22df0ebd5e'
+Submodule path 'vlsi/hammer/src/tools/gdspy': checked out 'b810e55b1334a8678543a35ab10d753bb17b0c23'
+Submodule path 'vlsi/hammer/src/tools/pyyaml': checked out 'c5b135fe39d41cffbdc006f28ccb2032df6005e0'
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/sha3'...
+Submodule path 'generators/sha3': checked out '88ada85a84253434ea5cef729d90cd74796aa442'
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/gemmini'...
+From https://github.com/ucb-bar/gemmini
+ * branch            c47cb7f3eb5c18390f176f3a53c43c8546d487d2 -> FETCH_HEAD
+Submodule path 'generators/gemmini': checked out 'c47cb7f3eb5c18390f176f3a53c43c8546d487d2'
+Submodule 'software/gemmini-rocc-tests' (https://github.com/ucb-bar/gemmini-rocc-tests.git) registered for path 'software/gemmini-rocc-tests'
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/gemmini/software/gemmini-rocc-tests'...
+Submodule path 'software/gemmini-rocc-tests': checked out 'e326e7c43457ff08669fe88edcaa395d846474d8'
+Submodule 'riscv-tests' (https://github.com/riscv/riscv-tests.git) registered for path 'software/gemmini-rocc-tests/riscv-tests'
+Submodule 'rocc-software' (https://github.com/ibm/rocc-software) registered for path 'software/gemmini-rocc-tests/rocc-software'
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/gemmini/software/gemmini-rocc-tests/riscv-tests'...
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/gemmini/software/gemmini-rocc-tests/rocc-software'...
+Submodule path 'software/gemmini-rocc-tests/riscv-tests': checked out 'ec6537fc4a527ca88be2f045e01c460e640ab9c5'
+Submodule 'env' (https://github.com/riscv/riscv-test-env.git) registered for path 'software/gemmini-rocc-tests/riscv-tests/env'
+Cloning into '/home/centos/firesim/target-design/chipyard/generators/gemmini/software/gemmini-rocc-tests/riscv-tests/env'...
+Submodule path 'software/gemmini-rocc-tests/riscv-tests/env': checked out '6f31769d091bbd2ef504308633fbe8a870641894'
+Submodule path 'software/gemmini-rocc-tests/rocc-software': checked out 'fddb795a0b52e82f8f4ce9ead9b1428440a62ab0'
+Cloning into '/home/centos/firesim/target-design/chipyard/sims/firesim'...
+From https://github.com/firesim/firesim
+ * branch            eab25ae18fb669a8d70b9b170160645e1e13c75f -> FETCH_HEAD
+Submodule path 'sims/firesim': checked out 'eab25ae18fb669a8d70b9b170160645e1e13c75f'
+Cloning into '/home/centos/firesim/target-design/chipyard/software/firemarshal'...
+From https://github.com/firesim/FireMarshal
+ * branch            da820669117f7619bfb6b7a8fc21e6080c33cfc1 -> FETCH_HEAD
+Submodule path 'software/firemarshal': checked out 'da820669117f7619bfb6b7a8fc21e6080c33cfc1'
